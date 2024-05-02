@@ -1,5 +1,5 @@
 @echo off
-chcp 1251
+chcp 65001
 setlocal enabledelayedexpansion
 
 if "%~1"=="/help" (
